@@ -33,11 +33,11 @@ Another example. this function creates anew H1 element, adds text to that elemen
 </html>
 ```
 
-#What are JS helper method?
+# What are JS helper method?
 
 Helper methods gained huge popularity in a very short period of time after the [ES6](https://www.google.com) was introduced. Some of these helper methods already existed in some external libraries, and developers really wanted them to be native to JavaScript itself. Using helpers have many benefits like making the code more readable, reducing the number of lines of code, etc.
 
-   Some of the helper methods are:
+ #  Some of the helper methods are:
    
 __1.every() Method:__ his method is used to check if all elements of an array pass the test that is implemented by the passed higher-order function. What compiler does under the hood is, it iterates over the employees array and check for all employee, if he is a developer or not. As in this case, it should return false.
 ```javascript
